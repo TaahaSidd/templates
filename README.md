@@ -5,4 +5,4 @@ This folder contains all landing page templates for Nexlo Systems clients.
 ## Templates
 
 - Furniture House : https://the-furniture-house.netlify.app/
-- Interior Design : 
+- Interior Design : https://interior-design-templ.netlify.app/ 
