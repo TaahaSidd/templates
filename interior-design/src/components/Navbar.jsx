@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-export default function Navbar() {
+export default function NavBar() {
     const [active, setActive] = useState('Services');
     const navLinks = ['Services', 'Portfolio', 'About', 'Contact'];
 
