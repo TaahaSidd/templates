@@ -1,4 +1,4 @@
-import Navbar from './components/Navbar';
+import NavBar from './components/NavBar';
 import Hero from './components/Hero';
 import Collections from './components/Collections';
 import ProductGrid from './components/ProductGrid';
@@ -10,7 +10,7 @@ import NewsLetter from './components/NewsLetter';
 function App() {
   return (
     <div className="min-h-screen bg-gray-50">
-      <Navbar />
+      <NavBar />
       <Hero />
       <Collections />
       <ProductGrid />

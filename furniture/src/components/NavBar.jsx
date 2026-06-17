@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Search, ShoppingBag, User } from 'lucide-react';
 
-export default function Navbar() {
+export default function NavBar() {
     const [active, setActive] = useState('Collections');
     const links = ['Collections', 'About', 'Materials', 'Showroom', 'Contact'];
 

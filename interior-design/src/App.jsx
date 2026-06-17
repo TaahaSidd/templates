@@ -1,4 +1,4 @@
-import Navbar from './components/Navbar';
+import NavBar from './components/NavBar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Services from './components/Services';
@@ -11,8 +11,8 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="min-h-screen bg-[#131313] select-none scroll-smooth">
-      {/* Structural Layer Layout */}
-      <Navbar />
+
+      <NavBar />
       <Hero />
       <About />
       <Services />
